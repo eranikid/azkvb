@@ -1,11 +1,16 @@
 {
   "name": "azkvb",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "",
   "main": "./index.js",
   "bin": {
     "azkvb": "./index.js"
   },
+  "keywords": [
+    "cli",
+    "azure",
+    "keyvault"
+  ],
   "author": "Eranikid",
   "repository": {
     "type": "git",

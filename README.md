@@ -1,6 +1,6 @@
 # Description
 
-A very simple cross-platform utility to fetch secrets from (Azure Key Vault)[https://azure.microsoft.com/ru-ru/services/key-vault/] without using grotesque (Azure Portal)[portal.azure.com] UI
+A very simple cross-platform utility to fetch secrets from [Azure Key Vault](https://azure.microsoft.com/ru-ru/services/key-vault/) without using grotesque [Azure Portal](portal.azure.com) UI
 
 # Installation
 
